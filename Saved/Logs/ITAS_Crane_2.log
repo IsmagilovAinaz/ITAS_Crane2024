@@ -1836,3 +1836,85 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.30-17.57.20:656][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
 [2024.03.30-17.57.20:659][ 32]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.03.30-17.57.20:659][ 32]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,085ms to complete.
+[2024.03.30-18.01.19:131][334]LogSlate: External Image Picker: DecompressImage failed
+[2024.03.30-18.01.42:804][611]LogDerivedDataCache: C:/Users/Ainaz/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.045 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1523 files in 2434 folders with total size 44 MiB.
+[2024.03.30-18.02.39:854][459]LogConcertTakeRecorder: Display: Session Client Change: sasha Connected.
+[2024.03.30-18.02.39:854][459]LogConcert: Display: User 'sasha' (Endpoint: A0878B284D9BD27B5F18EAA7E905C31B) joined Concert session 'va_2024.03.30-17.55.30' (Id: CE4A196C473334232056BA8ADDECA6D0, Owner: Ainaz).
+[2024.03.30-18.02.39:855][459]LogConcert: Display: Synced activity '65' produced by endpoint 'A0878B284D9BD27B5F18EAA7E905C31B': sasha joined the session.
+[2024.03.30-18.02.55:876][567]LogConcert: Display: Synced activity '66' produced by endpoint '9FB019B5491FB47BF04C5FA02C56F8DC': Ainaz locked StaticMeshActor_2.StaticMeshComponent0 in /Game/Untitled.
+[2024.03.30-18.02.56:477][586]LogConcert: Display: Synced activity '67' produced by endpoint '9FB019B5491FB47BF04C5FA02C56F8DC': Ainaz modified StaticMeshActor_2.StaticMeshComponent0 in /Game/Untitled.
+[2024.03.30-18.02.56:477][586]LogConcert: Display: Synced activity '68' produced by endpoint '9FB019B5491FB47BF04C5FA02C56F8DC': Ainaz unlocked StaticMeshActor_2.StaticMeshComponent0 in /Game/Untitled.
+[2024.03.30-18.03.15:181][664]LogSlate: Window 'View Changes' being destroyed
+[2024.03.30-18.03.15:197][664]LogSlate: Window 'View Changes' being destroyed
+[2024.03.30-18.03.33:320][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.03.30-18.03.34:648][859]LogSlate: Window 'Save Content' being destroyed
+[2024.03.30-18.03.34:653][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.30-18.03.34:672][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Untitled" FILE="../../../../GitRepos/ITAS_Crane2024/Content/Untitled.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.03.30-18.03.34:687][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.03.30-18.03.34:694][859]LogSavePackage: Moving output files for package: /Game/Untitled
+[2024.03.30-18.03.34:694][859]LogSavePackage: Moving '../../../../GitRepos/ITAS_Crane2024/Saved/Untitled846423C44E38943AE1F1B5921DD1F5A1.tmp' to '../../../../GitRepos/ITAS_Crane2024/Content/Untitled.umap'
+[2024.03.30-18.03.34:697][859]LogFileHelpers: Saving map 'Untitled' took 0.025
+[2024.03.30-18.03.34:717][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 7.85 sec)
+[2024.03.30-18.03.34:729][859]AssetCheck: New page: Asset Save: Untitled
+[2024.03.30-18.03.34:729][859]LogContentValidation: Display: Validating /Script/Engine.World /Game/Untitled.Untitled
+[2024.03.30-18.03.34:757][862]LogConcert: Display: Synced activity '69' produced by endpoint '9FB019B5491FB47BF04C5FA02C56F8DC': Ainaz saved package /Game/Untitled.
+[2024.03.30-18.04.54:385][753]LogConcertTakeRecorder: Display: Session Client Change: sasha Disconnected.
+[2024.03.30-18.04.54:385][753]LogConcert: Display: User 'sasha' (Endpoint: A0878B284D9BD27B5F18EAA7E905C31B) left Concert session 'va_2024.03.30-17.55.30' (Id: CE4A196C473334232056BA8ADDECA6D0, Owner: Ainaz).
+[2024.03.30-18.04.54:385][753]LogConcert: Display: Synced activity '70' produced by endpoint 'A0878B284D9BD27B5F18EAA7E905C31B': sasha left the session.
+[2024.03.30-18.05.27:274][387]LogSlate: Window 'Persist & Submit Files' being destroyed
+[2024.03.30-18.05.27:277][387]LogConcert: [Pending] Persisting Session Changes
+[2024.03.30-18.05.27:278][387]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2024.03.30-18.05.27:311][387]LogWindows: Error: appError called: Assertion failed: InPos <= Size [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\HAL\FileManagerGeneric.cpp] [Line: 675] 
+Attempted to seek past the end of file (12991/9818), file: ../../../../GitRepos/ITAS_Crane2024/Content/_GENERATED/Ainaz/Box_3ADF47D2.uasset. The file is most likely corrupt.
+
+[2024.03.30-18.05.27:311][387]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
+[2024.03.30-18.05.37:019][387]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 9 Seconds] waiting for h/w. InstanceID=1
+[2024.03.30-18.05.37:019][387]LogWindows: Error: === Critical error: ===
+[2024.03.30-18.05.37:019][387]LogWindows: Error: 
+[2024.03.30-18.05.37:019][387]LogWindows: Error: Assertion failed: InPos <= Size [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Private\HAL\FileManagerGeneric.cpp] [Line: 675] 
+[2024.03.30-18.05.37:020][387]LogWindows: Error: Attempted to seek past the end of file (12991/9818), file: ../../../../GitRepos/ITAS_Crane2024/Content/_GENERATED/Ainaz/Box_3ADF47D2.uasset. The file is most likely corrupt.
+[2024.03.30-18.05.37:020][387]LogWindows: Error: 
+[2024.03.30-18.05.37:020][387]LogWindows: Error: 
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff523a2938 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff523a2667 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff523918c9 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff5237fbf8 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff524dda63 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff52579c51 UnrealEditor-CoreUObject.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x0000024beb54d44b UnrealEditor-ConcertSyncClient.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x0000024beb58171b UnrealEditor-ConcertSyncClient.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x0000024beb581a1b UnrealEditor-ConcertSyncClient.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x0000024beb581bfa UnrealEditor-ConcertSyncClient.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x0000024beb75d3e9 UnrealEditor-MultiUserClient.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x0000024beb69f6f1 UnrealEditor-MultiUserClient.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x0000024beb7017ed UnrealEditor-MultiUserClient.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff507faeb0 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff50a17db0 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff50a1d690 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff509e979a UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff50a8a5fa UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff50a8df65 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff50aaf3e8 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff50a200dc UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff50803b5a UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff5086e365 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff5085b562 UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff5084e2fa UnrealEditor-Slate.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff70ee7dc6 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff70ecb83f UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff70eeab29 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff70ec32e3 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fffa547e858 USER32.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fffa547e299 USER32.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fff70eec226 UnrealEditor-ApplicationCore.dll!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007ff6c93576f2 UnrealEditor.exe!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007ff6c937d28c UnrealEditor.exe!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007ff6c937d37a UnrealEditor.exe!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007ff6c9380854 UnrealEditor.exe!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007ff6c9396984 UnrealEditor.exe!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007ff6c9399d7a UnrealEditor.exe!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: [Callstack] 0x00007fffa5297034 KERNEL32.DLL!UnknownFunction []
+[2024.03.30-18.05.37:020][387]LogWindows: Error: 
