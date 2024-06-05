@@ -4222,3 +4222,545 @@ Script Stack (2 frames) :
 [2024.06.05-14.27.16:562][598]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2024.06.05-14.27.44:211][681]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2024.06.05-14.30.03:919][100]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-14.37.36:629][521]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.06.05-14.37.36:629][521]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.06.05-14.37.40:590][745]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/PauseAndMenu/WidgetPauseMenu.WidgetPauseMenu
+[2024.06.05-14.37.40:591][745]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-14.37.40:591][745]LogChaos: FPhysicsSolverBase::AsyncDt:0.033333
+[2024.06.05-14.37.40:595][745]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-14.37.40:595][745]LogChaos: FPhysicsSolverBase::AsyncDt:0.033333
+[2024.06.05-14.37.47:152][ 98]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.06.05-14.37.47:152][ 98]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.06.05-14.38.10:762][685]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.06.05-14.38.10:762][685]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.06.05-14.38.24:692][330]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/PauseAndMenu/UI/WidgetMenu.WidgetMenu
+[2024.06.05-14.38.24:693][330]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-14.38.24:693][330]LogChaos: FPhysicsSolverBase::AsyncDt:0.033333
+[2024.06.05-14.38.24:703][330]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-14.38.24:703][330]LogChaos: FPhysicsSolverBase::AsyncDt:0.033333
+[2024.06.05-14.40.36:487][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2024.06.05-14.40.36:546][ 18]LogGeoReferencing: Display: Setting search path in ../../../Engine/Plugins/Runtime/GeoReferencing/Resources/PROJ 
+[2024.06.05-14.40.36:557][ 18]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-14.40.36:572][ 18]LogAssetEditorSubsystem: Opening Asset editor for World /Game/NewMap.NewMap
+[2024.06.05-14.40.36:572][ 18]Cmd: MAP LOAD FILE="../../../../../../Users/sasha/Documents/GitHub/ITAS_Crane2024/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.06.05-14.40.36:573][ 18]LightingResults: New page: Lighting Build
+[2024.06.05-14.40.36:573][ 18]LoadErrors: New page: Loading map: NewMap.umap
+[2024.06.05-14.40.36:625][ 18]LogWorld: UWorld::CleanupWorld for menu, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-14.40.36:625][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-14.40.36:625][ 18]MapCheck: New page: Map Check
+[2024.06.05-14.40.36:626][ 18]LightingResults: New page: Lighting Build
+[2024.06.05-14.40.36:649][ 18]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.05-14.40.36:653][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.06.05-14.40.36:656][ 18]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-14.40.36:656][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-14.40.36:685][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2024.06.05-14.40.36:708][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.06.05-14.40.36:727][ 18]LogGeoReferencing: Display: Setting search path in ../../../Engine/Plugins/Runtime/GeoReferencing/Resources/PROJ 
+[2024.06.05-14.40.36:740][ 18]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2024.06.05-14.40.36:741][ 18]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-14.40.36:741][ 18]LogChaos: FPhysicsSolverBase::AsyncDt:0.033333
+[2024.06.05-14.40.36:741][ 18]LogAIModule: Creating AISystem for world NewMap
+[2024.06.05-14.40.36:744][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:744][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint' 
+[2024.06.05-14.40.36:744][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:744][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1' 
+[2024.06.05-14.40.36:744][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:744][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2' 
+[2024.06.05-14.40.36:744][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:744][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3' 
+[2024.06.05-14.40.36:744][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:744][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4' 
+[2024.06.05-14.40.36:744][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:744][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint' 
+[2024.06.05-14.40.36:744][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:744][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint' 
+[2024.06.05-14.40.36:750][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:750][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1' 
+[2024.06.05-14.40.36:750][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:750][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2' 
+[2024.06.05-14.40.36:750][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:750][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3' 
+[2024.06.05-14.40.36:750][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:750][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4' 
+[2024.06.05-14.40.36:751][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:751][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint' 
+[2024.06.05-14.40.36:752][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:752][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint' 
+[2024.06.05-14.40.36:752][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:752][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint' 
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1' 
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1' 
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2' 
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2' 
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3' 
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3' 
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4' 
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4' 
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint' 
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint' 
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint' 
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:753][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint' 
+[2024.06.05-14.40.36:754][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:754][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint' 
+[2024.06.05-14.40.36:754][ 18]LogPhysics: Warning: Scale for /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.40.36:754][ 18]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint' 
+[2024.06.05-14.40.36:850][ 18]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.06.05-14.40.36:852][ 18]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1, from: Addition to navoctree)
+[2024.06.05-14.40.36:852][ 18]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2, from: Addition to navoctree)
+[2024.06.05-14.40.36:852][ 18]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3, from: Addition to navoctree)
+[2024.06.05-14.40.36:852][ 18]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4, from: Addition to navoctree)
+[2024.06.05-14.40.36:852][ 18]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint, from: Addition to navoctree)
+[2024.06.05-14.40.36:852][ 18]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint, from: Addition to navoctree)
+[2024.06.05-14.40.36:852][ 18]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint, from: Addition to navoctree)
+[2024.06.05-14.40.36:852][ 18]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1, from: Addition to navoctree)
+[2024.06.05-14.40.36:852][ 18]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2, from: Addition to navoctree)
+[2024.06.05-14.40.36:852][ 18]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3, from: Addition to navoctree)
+[2024.06.05-14.40.36:852][ 18]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4, from: Addition to navoctree)
+[2024.06.05-14.40.36:852][ 18]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint, from: Addition to navoctree)
+[2024.06.05-14.40.36:852][ 18]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint, from: Addition to navoctree)
+[2024.06.05-14.40.36:852][ 18]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint, from: Addition to navoctree)
+[2024.06.05-14.40.36:879][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2024.06.05-14.40.36:890][ 18]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.06.05-14.40.36:891][ 18]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,181ms to complete.
+[2024.06.05-14.40.48:015][371]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/NewMap.NewMap:PersistentLevel.NewMap
+[2024.06.05-14.40.48:015][371]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-14.40.48:015][371]LogChaos: FPhysicsSolverBase::AsyncDt:0.033333
+[2024.06.05-14.41.28:668][339]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.06.05-14.41.28:668][339]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.06.05-14.42.59:991][689]BlueprintLog: New page: Compile WidgetMenu
+[2024.06.05-14.43.00:076][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2024.06.05-14.43.40:507][800]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.05-14.43.40:527][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.05-14.43.40:527][800]PIE: New page: PIE session: NewMap (6 июн. 2024 г., 00:43:40)
+[2024.06.05-14.43.40:527][800]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.06.05-14.43.40:554][800]LogGeoReferencing: Display: Setting search path in ../../../Engine/Plugins/Runtime/GeoReferencing/Resources/PROJ 
+[2024.06.05-14.43.40:572][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049120s)
+[2024.06.05-14.43.40:572][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.049181s)
+[2024.06.05-14.43.40:597][800]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2024.06.05-14.43.40:600][800]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-14.43.40:600][800]LogChaos: FPhysicsSolverBase::AsyncDt:0.033333
+[2024.06.05-14.43.40:600][800]LogAIModule: Creating AISystem for world NewMap
+[2024.06.05-14.43.40:601][800]LogPlayLevel: PIE: World Init took: (0.001565s)
+[2024.06.05-14.43.40:601][800]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.06.05-14.43.40:601][800]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.05-14.43.40:601][800]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.05-14.43.40:601][800]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.05-14.43.40:601][800]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.05-14.43.40:601][800]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.05-14.43.40:601][800]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.05-14.43.40:601][800]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.05-14.43.40:601][800]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.05-14.43.40:602][800]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.05-14.43.40:602][800]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.05-14.43.40:602][800]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.05-14.43.40:610][800]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.05-14.43.40:637][800]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2024.06.05-14.43.40:639][800]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.05-14.43.40:639][800]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.05-14.43.40:639][800]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.05-14.43.40:644][800]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.06.05-14.43.40:644][800]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.06.05-14.43.40:646][800]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.06.05-14.43.40:646][800]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.06.05-14.43.40:648][800]LogInit: FAudioDevice initialized with ID 18.
+[2024.06.05-14.43.40:648][800]LogAudio: Display: Audio Device (ID: 18) registered with world 'NewMap'.
+[2024.06.05-14.43.40:648][800]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.06.05-14.43.40:654][800]LogLoad: Game class is 'GM_Crane_C'
+[2024.06.05-14.43.40:655][800]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.43.40:655][800]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1' 
+[2024.06.05-14.43.40:655][800]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.43.40:655][800]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2' 
+[2024.06.05-14.43.40:655][800]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.43.40:655][800]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3' 
+[2024.06.05-14.43.40:655][800]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.43.40:655][800]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4' 
+[2024.06.05-14.43.40:655][800]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.43.40:655][800]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint' 
+[2024.06.05-14.43.40:655][800]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.43.40:655][800]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint' 
+[2024.06.05-14.43.40:655][800]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.43.40:655][800]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint' 
+[2024.06.05-14.43.40:656][800]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2024.06.05-19.43.40
+[2024.06.05-14.43.40:657][800]LogWorld: Bringing up level for play took: 0.003218
+[2024.06.05-14.43.40:660][800]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2024.06.05-14.43.40:668][800]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.06.05-14.43.40:669][800]PIE: Server logged in
+[2024.06.05-14.43.40:670][800]PIE: Play in editor total start time 0,148 seconds.
+[2024.06.05-14.43.43:975][908]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.05-14.43.43:975][908]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.06.05-14.43.43:975][908]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.06.05-14.43.45:369][958]LogNet: Browse: /Game/PauseAndMenu/UI/menu
+[2024.06.05-14.43.45:369][958]LogLoad: LoadMap: /Game/PauseAndMenu/UI/menu
+[2024.06.05-14.43.45:369][958]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.06.05-14.43.45:371][958]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-14.43.45:373][958]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1' 
+[2024.06.05-14.43.45:373][958]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2' 
+[2024.06.05-14.43.45:373][958]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3' 
+[2024.06.05-14.43.45:373][958]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4' 
+[2024.06.05-14.43.45:373][958]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint' 
+[2024.06.05-14.43.45:373][958]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint' 
+[2024.06.05-14.43.45:373][958]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint' 
+[2024.06.05-14.43.45:374][958]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-14.43.45:422][958]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.05-14.43.45:426][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.06.05-14.43.45:448][958]LogAudio: Display: Audio Device (ID: 18) registered with world 'menu'.
+[2024.06.05-14.43.45:448][958]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-14.43.45:448][958]LogChaos: FPhysicsSolverBase::AsyncDt:0.033333
+[2024.06.05-14.43.45:449][958]LogAIModule: Creating AISystem for world menu
+[2024.06.05-14.43.45:449][958]LogPlayLevel: PIE: World Init took: (0.001234s)
+[2024.06.05-14.43.45:449][958]LogLoad: Game class is 'GM_Menu_C'
+[2024.06.05-14.43.45:450][958]LogWorld: Bringing World /Game/PauseAndMenu/UI/UEDPIE_0_menu.menu up for play (max tick rate 60) at 2024.06.05-19.43.45
+[2024.06.05-14.43.45:450][958]LogWorld: Bringing up level for play took: 0.000638
+[2024.06.05-14.43.45:450][958]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.06.05-14.43.45:452][958]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2024.06.05-14.43.45:452][958]LogLoad: Took 0.082357 seconds to LoadMap(/Game/PauseAndMenu/UI/menu)
+[2024.06.05-14.44.07:772][910]LogNet: Browse: /Game/NewMap
+[2024.06.05-14.44.07:772][910]LogLoad: LoadMap: /Game/NewMap
+[2024.06.05-14.44.07:773][910]LogWorld: BeginTearingDown for /Game/PauseAndMenu/UI/UEDPIE_0_menu
+[2024.06.05-14.44.07:774][910]LogWorld: UWorld::CleanupWorld for menu, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-14.44.07:774][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-14.44.07:817][910]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.05-14.44.07:820][910]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.06.05-14.44.07:822][910]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.06.05-14.44.07:835][910]LogGeoReferencing: Display: Setting search path in ../../../Engine/Plugins/Runtime/GeoReferencing/Resources/PROJ 
+[2024.06.05-14.44.07:842][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019503s)
+[2024.06.05-14.44.07:842][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.019559s)
+[2024.06.05-14.44.07:842][910]LogAudio: Display: Audio Device (ID: 18) registered with world 'NewMap'.
+[2024.06.05-14.44.07:842][910]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-14.44.07:842][910]LogChaos: FPhysicsSolverBase::AsyncDt:0.033333
+[2024.06.05-14.44.07:843][910]LogAIModule: Creating AISystem for world NewMap
+[2024.06.05-14.44.07:843][910]LogPlayLevel: PIE: World Init took: (0.001260s)
+[2024.06.05-14.44.07:843][910]LogLoad: Game class is 'GM_Crane_C'
+[2024.06.05-14.44.07:844][910]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.44.07:844][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1' 
+[2024.06.05-14.44.07:844][910]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.44.07:844][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2' 
+[2024.06.05-14.44.07:845][910]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.44.07:845][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3' 
+[2024.06.05-14.44.07:845][910]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.44.07:845][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4' 
+[2024.06.05-14.44.07:845][910]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.44.07:845][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint' 
+[2024.06.05-14.44.07:845][910]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.44.07:845][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint' 
+[2024.06.05-14.44.07:845][910]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.44.07:845][910]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint' 
+[2024.06.05-14.44.07:846][910]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2024.06.05-19.44.07
+[2024.06.05-14.44.07:846][910]LogWorld: Bringing up level for play took: 0.003286
+[2024.06.05-14.44.07:850][910]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.06.05-14.44.07:850][910]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.06.05-14.44.07:851][910]LogLoad: Took 0.078206 seconds to LoadMap(/Game/UEDPIE_0_NewMap)
+[2024.06.05-14.44.13:142][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-14.44.13:146][ 81]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.06.05-14.44.13:146][ 81]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-14.44.13:146][ 81]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1' 
+[2024.06.05-14.44.13:147][ 81]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2' 
+[2024.06.05-14.44.13:147][ 81]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3' 
+[2024.06.05-14.44.13:147][ 81]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4' 
+[2024.06.05-14.44.13:147][ 81]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint' 
+[2024.06.05-14.44.13:147][ 81]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint' 
+[2024.06.05-14.44.13:147][ 81]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint' 
+[2024.06.05-14.44.13:147][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-14.44.13:161][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.05-14.44.13:172][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-14.44.13:192][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-14.44.13:192][ 81]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.06.05-14.44.13:192][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.06.05-14.44.13:212][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.06.05-14.44.13:225][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.06.05-14.44.13:269][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2024.06.05-14.44.14:222][104]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.05-14.44.14:259][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.05-14.44.14:259][104]PIE: New page: PIE session: NewMap (6 июн. 2024 г., 00:44:14)
+[2024.06.05-14.44.14:259][104]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.06.05-14.44.14:275][104]LogGeoReferencing: Display: Setting search path in ../../../Engine/Plugins/Runtime/GeoReferencing/Resources/PROJ 
+[2024.06.05-14.44.14:285][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025167s)
+[2024.06.05-14.44.14:285][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.025244s)
+[2024.06.05-14.44.14:321][104]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.06.05-14.44.14:322][104]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-14.44.14:322][104]LogChaos: FPhysicsSolverBase::AsyncDt:0.033333
+[2024.06.05-14.44.14:323][104]LogAIModule: Creating AISystem for world NewMap
+[2024.06.05-14.44.14:323][104]LogPlayLevel: PIE: World Init took: (0.001114s)
+[2024.06.05-14.44.14:323][104]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.06.05-14.44.14:323][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.05-14.44.14:323][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.05-14.44.14:323][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.05-14.44.14:323][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.05-14.44.14:323][104]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.05-14.44.14:323][104]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.05-14.44.14:323][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.05-14.44.14:323][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.05-14.44.14:324][104]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.05-14.44.14:324][104]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.05-14.44.14:324][104]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.05-14.44.14:328][104]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.05-14.44.14:353][104]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2024.06.05-14.44.14:354][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.05-14.44.14:354][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.05-14.44.14:354][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.05-14.44.14:355][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.06.05-14.44.14:355][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.06.05-14.44.14:358][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.06.05-14.44.14:358][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.06.05-14.44.14:358][104]LogInit: FAudioDevice initialized with ID 19.
+[2024.06.05-14.44.14:358][104]LogAudio: Display: Audio Device (ID: 19) registered with world 'NewMap'.
+[2024.06.05-14.44.14:358][104]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.06.05-14.44.14:360][104]LogLoad: Game class is 'GM_Crane_C'
+[2024.06.05-14.44.14:364][104]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.44.14:364][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1' 
+[2024.06.05-14.44.14:364][104]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.44.14:364][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2' 
+[2024.06.05-14.44.14:364][104]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.44.14:364][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3' 
+[2024.06.05-14.44.14:364][104]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.44.14:364][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4' 
+[2024.06.05-14.44.14:365][104]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.44.14:365][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint' 
+[2024.06.05-14.44.14:365][104]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.44.14:365][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint' 
+[2024.06.05-14.44.14:365][104]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.44.14:365][104]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint' 
+[2024.06.05-14.44.14:366][104]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2024.06.05-19.44.14
+[2024.06.05-14.44.14:366][104]LogWorld: Bringing up level for play took: 0.005804
+[2024.06.05-14.44.14:369][104]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.06.05-14.44.14:374][104]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.06.05-14.44.14:375][104]PIE: Server logged in
+[2024.06.05-14.44.14:376][104]PIE: Play in editor total start time 0,117 seconds.
+[2024.06.05-14.44.15:195][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-14.44.15:195][129]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.06.05-14.44.15:196][129]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-14.44.15:200][129]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1' 
+[2024.06.05-14.44.15:200][129]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2' 
+[2024.06.05-14.44.15:200][129]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3' 
+[2024.06.05-14.44.15:201][129]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4' 
+[2024.06.05-14.44.15:201][129]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint' 
+[2024.06.05-14.44.15:201][129]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint' 
+[2024.06.05-14.44.15:201][129]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint' 
+[2024.06.05-14.44.15:204][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-14.44.15:218][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.05-14.44.15:223][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-14.44.15:245][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-14.44.15:245][129]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.06.05-14.44.15:245][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.06.05-14.44.15:247][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.06.05-14.44.15:256][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.06.05-14.44.15:295][130]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.06.05-14.44.39:748][218]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-14.47.21:893][606]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-14.47.52:038][697]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-14.48.00:191][721]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.06.05-14.48.00:191][721]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.06.05-14.48.04:201][822]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-14.48.04:287][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PauseAndMenu/UI/WidgetMenu" FILE="../../../../../../Users/sasha/Documents/GitHub/ITAS_Crane2024/Content/PauseAndMenu/UI/WidgetMenu.uasset" SILENT=true
+[2024.06.05-14.48.04:309][822]LogSavePackage: Moving output files for package: /Game/PauseAndMenu/UI/WidgetMenu
+[2024.06.05-14.48.04:310][822]LogSavePackage: Moving '../../../../../../Users/sasha/Documents/GitHub/ITAS_Crane2024/Saved/WidgetMenu4EF8B14544763EF7393E3F8FE5B1FB99.tmp' to '../../../../../../Users/sasha/Documents/GitHub/ITAS_Crane2024/Content/PauseAndMenu/UI/WidgetMenu.uasset'
+[2024.06.05-14.48.04:324][822]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 1.16 sec)
+[2024.06.05-14.48.04:332][822]AssetCheck: New page: Asset Save: WidgetMenu
+[2024.06.05-14.48.04:333][822]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/PauseAndMenu/UI/WidgetMenu.WidgetMenu
+[2024.06.05-14.48.27:324][405]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.06.05-14.48.27:324][405]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.06.05-14.49.09:209][463]BlueprintLog: New page: Compile WidgetPauseMenu
+[2024.06.05-14.49.09:306][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2024.06.05-14.49.57:585][296]BlueprintLog: New page: Compile WidgetPauseMenu
+[2024.06.05-14.49.57:667][296]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.06.05-14.49.59:945][372]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.05-14.49.59:977][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.05-14.49.59:978][372]PIE: New page: PIE session: NewMap (6 июн. 2024 г., 00:49:59)
+[2024.06.05-14.49.59:978][372]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.06.05-14.49.59:989][372]LogGeoReferencing: Display: Setting search path in ../../../Engine/Plugins/Runtime/GeoReferencing/Resources/PROJ 
+[2024.06.05-14.49.59:997][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018623s)
+[2024.06.05-14.49.59:997][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.018893s)
+[2024.06.05-14.50.00:027][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.06.05-14.50.00:031][372]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-14.50.00:031][372]LogChaos: FPhysicsSolverBase::AsyncDt:0.033333
+[2024.06.05-14.50.00:032][372]LogAIModule: Creating AISystem for world NewMap
+[2024.06.05-14.50.00:032][372]LogPlayLevel: PIE: World Init took: (0.001597s)
+[2024.06.05-14.50.00:032][372]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.06.05-14.50.00:032][372]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.05-14.50.00:033][372]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.05-14.50.00:033][372]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.05-14.50.00:033][372]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.05-14.50.00:033][372]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.05-14.50.00:033][372]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.05-14.50.00:033][372]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.05-14.50.00:033][372]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.05-14.50.00:034][372]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.05-14.50.00:034][372]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.05-14.50.00:034][372]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.05-14.50.00:036][372]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.05-14.50.00:057][372]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2024.06.05-14.50.00:058][372]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.05-14.50.00:058][372]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.05-14.50.00:058][372]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.05-14.50.00:058][372]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.06.05-14.50.00:058][372]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.06.05-14.50.00:061][372]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.06.05-14.50.00:061][372]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.06.05-14.50.00:061][372]LogInit: FAudioDevice initialized with ID 20.
+[2024.06.05-14.50.00:062][372]LogAudio: Display: Audio Device (ID: 20) registered with world 'NewMap'.
+[2024.06.05-14.50.00:062][372]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.06.05-14.50.00:063][372]LogLoad: Game class is 'GM_Crane_C'
+[2024.06.05-14.50.00:065][372]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.50.00:065][372]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1' 
+[2024.06.05-14.50.00:065][372]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.50.00:065][372]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2' 
+[2024.06.05-14.50.00:065][372]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.50.00:065][372]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3' 
+[2024.06.05-14.50.00:065][372]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.50.00:065][372]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4' 
+[2024.06.05-14.50.00:065][372]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.50.00:065][372]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint' 
+[2024.06.05-14.50.00:065][372]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.50.00:065][372]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint' 
+[2024.06.05-14.50.00:065][372]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.50.00:065][372]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint' 
+[2024.06.05-14.50.00:066][372]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2024.06.05-19.50.00
+[2024.06.05-14.50.00:067][372]LogWorld: Bringing up level for play took: 0.003115
+[2024.06.05-14.50.00:070][372]LogOnline: OSS: Created online subsystem instance for: :Context_39
+[2024.06.05-14.50.00:074][372]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.06.05-14.50.00:074][372]PIE: Server logged in
+[2024.06.05-14.50.00:075][372]PIE: Play in editor total start time 0,103 seconds.
+[2024.06.05-14.50.01:409][426]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.05-14.50.01:409][426]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2024.06.05-14.50.01:409][426]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.06.05-14.50.12:912][905]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.06.05-14.50.12:912][905]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.06.05-14.50.18:913][122]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.05-14.50.18:913][122]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.06.05-14.50.27:285][441]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.06.05-14.50.27:285][441]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.06.05-14.50.27:935][466]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.05-14.50.27:936][466]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.06.05-14.50.28:469][488]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.06.05-14.50.28:469][488]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.06.05-14.50.28:837][502]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.05-14.50.28:837][502]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.06.05-14.50.29:238][518]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.06.05-14.50.29:238][518]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.06.05-14.50.30:974][584]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.05-14.50.30:974][584]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.06.05-14.50.35:882][778]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.06.05-14.50.35:882][778]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.06.05-14.50.36:249][792]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.05-14.50.36:249][792]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.06.05-14.50.36:756][813]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.06.05-14.50.36:756][813]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.06.05-14.50.37:735][850]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.05-14.50.37:735][850]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.06.05-14.50.44:084][104]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.06.05-14.50.44:084][104]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.06.05-14.50.55:339][524]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.05-14.50.55:339][524]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.06.05-14.50.56:844][585]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.06.05-14.50.56:844][585]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.06.05-14.50.57:291][602]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.05-14.50.57:291][602]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.06.05-14.50.57:747][620]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.06.05-14.50.57:747][620]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2024.06.05-14.51.02:117][782]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.06.05-14.51.02:117][782]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2024.06.05-14.51.03:611][841]LogNet: Browse: /Game/PauseAndMenu/UI/menu
+[2024.06.05-14.51.03:611][841]LogLoad: LoadMap: /Game/PauseAndMenu/UI/menu
+[2024.06.05-14.51.03:611][841]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.06.05-14.51.03:614][841]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-14.51.03:615][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1' 
+[2024.06.05-14.51.03:615][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2' 
+[2024.06.05-14.51.03:615][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3' 
+[2024.06.05-14.51.03:615][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4' 
+[2024.06.05-14.51.03:616][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint' 
+[2024.06.05-14.51.03:616][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint' 
+[2024.06.05-14.51.03:616][841]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint' 
+[2024.06.05-14.51.03:616][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-14.51.03:657][841]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.05-14.51.03:665][841]LogUObjectHash: Compacting FUObjectHashTables data took   5.71ms
+[2024.06.05-14.51.03:689][841]LogAudio: Display: Audio Device (ID: 20) registered with world 'menu'.
+[2024.06.05-14.51.03:689][841]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-14.51.03:689][841]LogChaos: FPhysicsSolverBase::AsyncDt:0.033333
+[2024.06.05-14.51.03:689][841]LogAIModule: Creating AISystem for world menu
+[2024.06.05-14.51.03:690][841]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2024.06.05-14.51.03:690][841]LogLoad: Game class is 'GM_Menu_C'
+[2024.06.05-14.51.03:691][841]LogWorld: Bringing World /Game/PauseAndMenu/UI/UEDPIE_0_menu.menu up for play (max tick rate 60) at 2024.06.05-19.51.03
+[2024.06.05-14.51.03:691][841]LogWorld: Bringing up level for play took: 0.000919
+[2024.06.05-14.51.03:691][841]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.06.05-14.51.03:693][841]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2024.06.05-14.51.03:693][841]LogLoad: Took 0.081688 seconds to LoadMap(/Game/PauseAndMenu/UI/menu)
+[2024.06.05-14.51.09:075][ 93]LogNet: Browse: /Game/NewMap
+[2024.06.05-14.51.09:075][ 93]LogLoad: LoadMap: /Game/NewMap
+[2024.06.05-14.51.09:075][ 93]LogWorld: BeginTearingDown for /Game/PauseAndMenu/UI/UEDPIE_0_menu
+[2024.06.05-14.51.09:076][ 93]LogWorld: UWorld::CleanupWorld for menu, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-14.51.09:076][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-14.51.09:115][ 93]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.05-14.51.09:119][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.06.05-14.51.09:120][ 93]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.06.05-14.51.09:129][ 93]LogGeoReferencing: Display: Setting search path in ../../../Engine/Plugins/Runtime/GeoReferencing/Resources/PROJ 
+[2024.06.05-14.51.09:135][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015418s)
+[2024.06.05-14.51.09:135][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.015462s)
+[2024.06.05-14.51.09:135][ 93]LogAudio: Display: Audio Device (ID: 20) registered with world 'NewMap'.
+[2024.06.05-14.51.09:135][ 93]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-14.51.09:135][ 93]LogChaos: FPhysicsSolverBase::AsyncDt:0.033333
+[2024.06.05-14.51.09:136][ 93]LogAIModule: Creating AISystem for world NewMap
+[2024.06.05-14.51.09:136][ 93]LogPlayLevel: PIE: World Init took: (0.000903s)
+[2024.06.05-14.51.09:136][ 93]LogLoad: Game class is 'GM_Crane_C'
+[2024.06.05-14.51.09:137][ 93]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.51.09:137][ 93]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1' 
+[2024.06.05-14.51.09:137][ 93]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.51.09:137][ 93]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2' 
+[2024.06.05-14.51.09:137][ 93]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.51.09:137][ 93]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3' 
+[2024.06.05-14.51.09:137][ 93]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.51.09:137][ 93]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4' 
+[2024.06.05-14.51.09:137][ 93]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.51.09:137][ 93]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint' 
+[2024.06.05-14.51.09:137][ 93]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.51.09:137][ 93]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint' 
+[2024.06.05-14.51.09:137][ 93]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-14.51.09:137][ 93]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint' 
+[2024.06.05-14.51.09:138][ 93]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2024.06.05-19.51.09
+[2024.06.05-14.51.09:139][ 93]LogWorld: Bringing up level for play took: 0.002724
+[2024.06.05-14.51.09:143][ 93]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.06.05-14.51.09:143][ 93]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.06.05-14.51.09:144][ 93]LogLoad: Took 0.068602 seconds to LoadMap(/Game/UEDPIE_0_NewMap)
+[2024.06.05-14.51.17:017][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-14.51.17:018][375]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.06.05-14.51.17:018][375]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-14.51.17:018][375]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1' 
+[2024.06.05-14.51.17:018][375]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2' 
+[2024.06.05-14.51.17:018][375]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3' 
+[2024.06.05-14.51.17:018][375]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4' 
+[2024.06.05-14.51.17:019][375]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint' 
+[2024.06.05-14.51.17:019][375]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint' 
+[2024.06.05-14.51.17:019][375]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint' 
+[2024.06.05-14.51.17:019][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-14.51.17:032][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.05-14.51.17:040][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-14.51.17:059][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-14.51.17:059][375]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.06.05-14.51.17:060][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.06.05-14.51.17:064][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.06.05-14.51.17:074][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.06.05-14.51.17:110][376]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2024.06.05-14.51.30:844][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-14.51.30:939][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PauseAndMenu/WidgetPauseMenu" FILE="../../../../../../Users/sasha/Documents/GitHub/ITAS_Crane2024/Content/PauseAndMenu/WidgetPauseMenu.uasset" SILENT=true
+[2024.06.05-14.51.30:952][624]LogSavePackage: Moving output files for package: /Game/PauseAndMenu/WidgetPauseMenu
+[2024.06.05-14.51.30:953][624]LogSavePackage: Moving '../../../../../../Users/sasha/Documents/GitHub/ITAS_Crane2024/Saved/WidgetPauseMenuAD06B2BC45DB73C4B3A4FB85FA12A92C.tmp' to '../../../../../../Users/sasha/Documents/GitHub/ITAS_Crane2024/Content/PauseAndMenu/WidgetPauseMenu.uasset'
+[2024.06.05-14.51.30:972][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 1.29 sec)
+[2024.06.05-14.51.30:975][624]AssetCheck: New page: Asset Save: WidgetPauseMenu
+[2024.06.05-14.51.30:975][624]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/PauseAndMenu/WidgetPauseMenu.WidgetPauseMenu
+[2024.06.05-14.51.42:975][909]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-14.52.24:256][870]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-14.52.47:953][941]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-14.53.01:793][982]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-14.53.43:788][108]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.06.05-14.53.43:789][108]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
