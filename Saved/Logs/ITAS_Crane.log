@@ -4764,3 +4764,187 @@ Script Stack (2 frames) :
 [2024.06.05-14.53.01:793][982]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2024.06.05-14.53.43:788][108]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
 [2024.06.05-14.53.43:789][108]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.06.05-14.54.05:056][248]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-14.54.56:690][403]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-14.57.06:857][793]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-14.57.25:113][848]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-14.59.55:912][300]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.04.05:495][ 49]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.09.30:341][ 23]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.10.00:019][112]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.10.51:894][268]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.12.08:353][497]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.12.21:683][537]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.12.50:156][622]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.13.03:512][662]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.13.16:929][703]LogDerivedDataCache: C:/Users/sasha/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.138 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1673 files in 2646 folders with total size 95 MiB.
+[2024.06.05-15.14.04:488][845]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.14.20:775][894]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.14.39:865][951]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.14.58:796][  8]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.15.08:847][ 38]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.15.21:935][ 77]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.15.33:555][112]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.16.12:976][230]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.16.26:681][271]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.16.44:346][324]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.17.13:046][410]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.18.49:021][698]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.19.12:314][768]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.24.53:546][791]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.06.05-15.24.53:546][791]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.06.05-15.25.10:251][505]LogShaderCompilers: Display: ================================================
+[2024.06.05-15.25.10:251][505]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.06.05-15.25.10:251][505]LogShaderCompilers: Display: Total job queries 93, among them cache hits 28 (30.11%)
+[2024.06.05-15.25.10:251][505]LogShaderCompilers: Display: Tracking 65 distinct input hashes that result in 42 distinct outputs (64.62%)
+[2024.06.05-15.25.10:252][505]LogShaderCompilers: Display: RAM used: 129,73 KiB of 409,60 MiB budget. Usage: 0.03%
+[2024.06.05-15.25.10:252][505]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.06.05-15.25.10:252][505]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.06.05-15.25.10:252][505]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.06.05-15.25.10:252][505]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.06.05-15.25.10:252][505]LogShaderCompilers: Display: ================================================
+[2024.06.05-15.25.10:343][509]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-15.25.10:609][517]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-15.25.11:469][546]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-15.25.11:505][547]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-15.25.11:539][548]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-15.25.11:755][556]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-15.25.14:154][662]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/WorkingCrane/NewHUD.NewHUD
+[2024.06.05-15.25.14:158][662]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-15.25.14:159][662]LogChaos: FPhysicsSolverBase::AsyncDt:0.033333
+[2024.06.05-15.25.17:706][766]LogViewport: Scene viewport resized to 1139x760, mode Windowed.
+[2024.06.05-15.25.28:009][120]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-15.25.28:009][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-15.28.14:567][248]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/WorkingCrane/NewBlueprint.NewBlueprint
+[2024.06.05-15.28.14:567][248]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-15.28.14:567][248]LogChaos: FPhysicsSolverBase::AsyncDt:0.033333
+[2024.06.05-15.28.14:825][248]PIE: Warning: AttachTo: '/Engine/Transient.World_32:PersistentLevel.NewBlueprint_C_0.DefaultSceneRoot' is not static  (in blueprint "NewBlueprint"), cannot attach '/Engine/Transient.World_32:PersistentLevel.NewBlueprint_C_0.SplineMesh' which is static to it. Aborting.
+[2024.06.05-15.28.17:245][339]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-15.28.17:245][339]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-15.29.56:690][813]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.30.20:807][458]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WorkingCrane/NewWidgetBlueprint.NewWidgetBlueprint
+[2024.06.05-15.30.20:807][458]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-15.30.20:807][458]LogChaos: FPhysicsSolverBase::AsyncDt:0.033333
+[2024.06.05-15.30.20:810][458]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-15.30.20:810][458]LogChaos: FPhysicsSolverBase::AsyncDt:0.033333
+[2024.06.05-15.30.48:738][555]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.06.05-15.30.51:149][616]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.06.05-15.31.14:549][454]LogWindowsTextInputMethodSystem: Activated input method: Японский (Япония) - (Keyboard).
+[2024.06.05-15.31.14:551][454]LogWindowsTextInputMethodSystem: Activated input method: Японский (Япония) - Microsoft IME (TSF IME).
+[2024.06.05-15.31.14:794][462]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.06.05-15.31.14:794][462]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.06.05-15.31.21:095][717]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.06.05-15.31.21:095][717]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.06.05-15.31.37:380][355]LogWindowsTextInputMethodSystem: Activated input method: Японский (Япония) - (Keyboard).
+[2024.06.05-15.31.37:381][355]LogWindowsTextInputMethodSystem: Activated input method: Японский (Япония) - Microsoft IME (TSF IME).
+[2024.06.05-15.31.37:594][362]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.06.05-15.31.37:594][362]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2024.06.05-15.31.51:721][917]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.06.05-15.31.51:722][917]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2024.06.05-15.32.32:069][444]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.06.05-15.33.38:038][598]BlueprintLog: New page: Compile NewWidgetBlueprint
+[2024.06.05-15.33.38:195][598]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2024.06.05-15.33.44:577][852]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.06.05-15.33.44:637][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WorkingCrane/NewWidgetBlueprint" FILE="../../../../../../Users/sasha/Documents/GitHub/ITAS_Crane2024/Content/WorkingCrane/NewWidgetBlueprint.uasset" SILENT=true
+[2024.06.05-15.33.44:658][852]LogSavePackage: Moving output files for package: /Game/WorkingCrane/NewWidgetBlueprint
+[2024.06.05-15.33.44:660][852]LogSavePackage: Moving '../../../../../../Users/sasha/Documents/GitHub/ITAS_Crane2024/Saved/NewWidgetBlueprintA7F4D4734B03BF267F797EB362D5CD11.tmp' to '../../../../../../Users/sasha/Documents/GitHub/ITAS_Crane2024/Content/WorkingCrane/NewWidgetBlueprint.uasset'
+[2024.06.05-15.33.44:677][852]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 1.39 sec)
+[2024.06.05-15.33.44:683][852]AssetCheck: New page: Asset Save: NewWidgetBlueprint
+[2024.06.05-15.33.44:683][852]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WorkingCrane/NewWidgetBlueprint.NewWidgetBlueprint
+[2024.06.05-15.34.28:885][875]LogSlate: Window 'NewWidgetBlueprint' being destroyed
+[2024.06.05-15.34.28:892][875]LogSlate: Window 'NewWidgetBlueprint' being destroyed
+[2024.06.05-15.34.29:116][875]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-15.34.29:116][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-15.34.29:133][875]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-15.34.29:133][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-15.34.29:401][875]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-15.34.29:401][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-15.34.29:418][875]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-15.34.29:418][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-15.34.29:626][875]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-15.34.29:626][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-15.34.29:777][875]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-15.34.29:777][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-15.34.29:792][875]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-15.34.29:792][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-15.34.30:079][886]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.06.05-15.34.30:099][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.05-15.34.30:100][886]PIE: New page: PIE session: NewMap (6 июн. 2024 г., 01:34:30)
+[2024.06.05-15.34.30:100][886]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.06.05-15.34.30:132][886]LogGeoReferencing: Display: Setting search path in ../../../Engine/Plugins/Runtime/GeoReferencing/Resources/PROJ 
+[2024.06.05-15.34.30:155][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054396s)
+[2024.06.05-15.34.30:155][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.054693s)
+[2024.06.05-15.34.30:189][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.06.05-15.34.30:193][886]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.06.05-15.34.30:193][886]LogChaos: FPhysicsSolverBase::AsyncDt:0.033333
+[2024.06.05-15.34.30:194][886]LogAIModule: Creating AISystem for world NewMap
+[2024.06.05-15.34.30:195][886]LogPlayLevel: PIE: World Init took: (0.002340s)
+[2024.06.05-15.34.30:195][886]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.06.05-15.34.30:195][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.05-15.34.30:195][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.05-15.34.30:195][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.05-15.34.30:195][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.05-15.34.30:195][886]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.06.05-15.34.30:195][886]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.05-15.34.30:195][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.06.05-15.34.30:195][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.05-15.34.30:196][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.05-15.34.30:196][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.05-15.34.30:197][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.05-15.34.30:199][886]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.06.05-15.34.30:224][886]LogAudioMixer: Display: Using Audio Hardware Device Наушники (Realtek(R) Audio)
+[2024.06.05-15.34.30:224][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.05-15.34.30:224][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.05-15.34.30:224][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.05-15.34.30:225][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.06.05-15.34.30:225][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.06.05-15.34.30:228][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.06.05-15.34.30:228][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.06.05-15.34.30:228][886]LogInit: FAudioDevice initialized with ID 21.
+[2024.06.05-15.34.30:228][886]LogAudio: Display: Audio Device (ID: 21) registered with world 'NewMap'.
+[2024.06.05-15.34.30:228][886]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.06.05-15.34.30:236][886]LogLoad: Game class is 'GM_Crane_C'
+[2024.06.05-15.34.30:238][886]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-15.34.30:238][886]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1' 
+[2024.06.05-15.34.30:238][886]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-15.34.30:238][886]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2' 
+[2024.06.05-15.34.30:238][886]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-15.34.30:238][886]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3' 
+[2024.06.05-15.34.30:238][886]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-15.34.30:238][886]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4' 
+[2024.06.05-15.34.30:238][886]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-15.34.30:238][886]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint' 
+[2024.06.05-15.34.30:239][886]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-15.34.30:239][886]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint' 
+[2024.06.05-15.34.30:239][886]LogPhysics: Warning: Scale for /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.000 Z=0.000
+[2024.06.05-15.34.30:239][886]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint' 
+[2024.06.05-15.34.30:241][886]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2024.06.05-20.34.30
+[2024.06.05-15.34.30:242][886]LogWorld: Bringing up level for play took: 0.005767
+[2024.06.05-15.34.30:247][886]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2024.06.05-15.34.30:255][886]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.06.05-15.34.30:256][886]PIE: Server logged in
+[2024.06.05-15.34.30:256][886]PIE: Play in editor total start time 0,157 seconds.
+[2024.06.05-15.34.52:042][959]LogBlueprintUserMessages: [WorkingCrane_BP_C_0] -1
+[2024.06.05-15.34.57:650][237]LogBlueprintUserMessages: [WorkingCrane_BP_C_0] 0
+[2024.06.05-15.35.07:327][715]LogBlueprintUserMessages: [WorkingCrane_BP_C_0] 1
+[2024.06.05-15.35.10:166][854]LogBlueprintUserMessages: [WorkingCrane_BP_C_0] 0
+[2024.06.05-15.36.27:079][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-15.36.27:079][670]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.06.05-15.36.27:079][670]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.05-15.36.27:080][670]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1' 
+[2024.06.05-15.36.27:080][670]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2' 
+[2024.06.05-15.36.27:080][670]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3' 
+[2024.06.05-15.36.27:080][670]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4' 
+[2024.06.05-15.36.27:080][670]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.centerPoint' 
+[2024.06.05-15.36.27:080][670]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint' 
+[2024.06.05-15.36.27:080][670]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint' 
+[2024.06.05-15.36.27:081][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-15.36.27:089][670]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.05-15.36.27:094][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.05-15.36.27:110][670]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.05-15.36.27:110][670]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.06.05-15.36.27:111][670]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.06.05-15.36.27:113][670]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.06.05-15.36.27:135][670]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.05-15.36.27:151][670]LogUObjectHash: Compacting FUObjectHashTables data took  13.30ms
+[2024.06.05-15.36.27:185][671]LogPlayLevel: Display: Destroying online subsystem :Context_50
