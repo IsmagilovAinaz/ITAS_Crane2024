@@ -12690,33 +12690,3 @@ Script Stack (2 frames) :
 [2024.06.19-13.42.10:370][743]LogOutputDevice: Error: [Callstack] 0x00007ffec8b77344 KERNEL32.DLL!UnknownFunction []
 [2024.06.19-13.42.10:370][743]LogOutputDevice: Error: [Callstack] 0x00007ffec8e9cc91 ntdll.dll!UnknownFunction []
 [2024.06.19-13.42.10:370][743]LogOutputDevice: Error: 
-[2024.06.19-13.42.10:377][743]LogStats:                SubmitErrorReport -  0.000 s
-[2024.06.19-13.42.11:925][743]LogStats:                    SendNewReport -  1.548 s
-[2024.06.19-13.42.11:925][743]LogStats:             FDebug::EnsureFailed -  1.650 s
-[2024.06.19-13.42.11:937][744]LogBlueprintUserMessages: [WorkingCrane_BP_C_0] -2
-[2024.06.19-13.42.15:862][940]LogBlueprintUserMessages: [WorkingCrane_BP_C_0] -1
-[2024.06.19-13.42.16:082][951]LogBlueprintUserMessages: [WorkingCrane_BP_C_0] 0
-[2024.06.19-13.42.19:109][105]LogBlueprintUserMessages: [WorkingCrane_BP_C_0] 1
-[2024.06.19-13.42.21:035][201]LogBlueprintUserMessages: [WorkingCrane_BP_C_0] 0
-[2024.06.19-13.42.35:147][895]LogBlueprintUserMessages: [WorkingCrane_BP_C_0] 1
-[2024.06.19-13.42.42:355][250]LogBlueprintUserMessages: [WorkingCrane_BP_C_0] 0
-[2024.06.19-13.44.05:413][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2024.06.19-13.44.05:413][315]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
-[2024.06.19-13.44.05:413][315]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
-[2024.06.19-13.44.05:414][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint1' 
-[2024.06.19-13.44.05:414][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint2' 
-[2024.06.19-13.44.05:414][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint3' 
-[2024.06.19-13.44.05:414][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.slingPoint4' 
-[2024.06.19-13.44.05:414][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.TP_Point' 
-[2024.06.19-13.44.05:414][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.UpSlingerPoint' 
-[2024.06.19-13.44.05:414][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.WaitingSlingerPoint' 
-[2024.06.19-13.44.05:414][315]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Actor: 'BP_Container' Component: '/Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.BP_Container_C_1.DownPoint' 
-[2024.06.19-13.44.05:415][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2024.06.19-13.44.05:421][315]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2024.06.19-13.44.05:426][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2024.06.19-13.44.05:444][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2024.06.19-13.44.05:444][315]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
-[2024.06.19-13.44.05:445][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
-[2024.06.19-13.44.05:447][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
-[2024.06.19-13.44.05:455][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
-[2024.06.19-13.44.05:483][316]LogPlayLevel: Display: Destroying online subsystem :Context_49
